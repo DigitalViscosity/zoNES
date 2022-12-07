@@ -1,0 +1,17 @@
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\bin\Debug\net6.0-windows\zoNES.GUI.exe
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\bin\Debug\net6.0-windows\zoNES.GUI.deps.json
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\bin\Debug\net6.0-windows\zoNES.GUI.runtimeconfig.json
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\bin\Debug\net6.0-windows\zoNES.GUI.dll
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\bin\Debug\net6.0-windows\zoNES.GUI.pdb
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.csproj.AssemblyReference.cache
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.Form1.resources
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.csproj.GenerateResource.cache
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.AssemblyInfoInputs.cache
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.AssemblyInfo.cs
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.csproj.CoreCompileInputs.cache
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.dll
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\refint\zoNES.GUI.dll
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.pdb
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\zoNES.GUI.genruntimeconfig.cache
+C:\Users\Zohar\source\repos\zoNES\zoNES.GUI\zoNES.GUI\obj\Debug\net6.0-windows\ref\zoNES.GUI.dll
